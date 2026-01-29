@@ -7,8 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1gbph2FWkP9x9On5NnOKV1XFOM9kz7qIw
 """
 
-print("Hello,World!!")
-
 n=int(input("Enter the number of terms:"))
 a,b=0,1
 print("Fibonacci Series:")
